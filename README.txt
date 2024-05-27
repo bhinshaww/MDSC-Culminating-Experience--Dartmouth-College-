@@ -1,2 +1,2 @@
 This repository contains the pickle graphs post network creation and the analysis used in my final culminating experience
-For original data and network creation code, reach out to benjaminhinshaw01@gmail.com
+For original data, reach out to benjaminhinshaw01@gmail.com
